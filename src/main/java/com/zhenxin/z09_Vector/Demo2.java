@@ -1,4 +1,4 @@
-package z09_Vector;
+package com.zhenxin.z09_Vector;
 
 public class Demo2 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package z08_nolock;
+package com.zhenxin.z08_nolock;
 
 import java.util.concurrent.atomic.AtomicReference;
 import java.util.concurrent.atomic.AtomicStampedReference;

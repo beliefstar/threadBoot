@@ -1,4 +1,4 @@
-package z06_concurrent_container;
+package com.zhenxin.z06_concurrent_container;
 
 import java.util.ArrayList;
 import java.util.Collections;

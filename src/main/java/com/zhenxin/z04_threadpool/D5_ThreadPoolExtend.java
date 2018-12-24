@@ -1,4 +1,4 @@
-package z04_threadpool;
+package com.zhenxin.z04_threadpool;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.LinkedBlockingQueue;
