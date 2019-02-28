@@ -59,6 +59,10 @@ public class Demo3_async {
                 e.printStackTrace();
             }
             System.out.println("-----------");
+            throw new RuntimeException();
+        }).exceptionally(e -> {
+            System.out.println(e.getClass().getName());
+            return null;
         });
         System.out.println("++++++++++++++");
         Void aVoid = async.get();
